@@ -1,3 +1,7 @@
+<img width="1206" height="622" alt="image" src="https://github.com/user-attachments/assets/57ae0702-194e-4608-b6f1-16cfe314d265" />
+
+
+
 #  Zomato Restaurant Rating Analysis & Prediction
 
 ##  Project Overview
